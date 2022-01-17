@@ -1,5 +1,5 @@
 const solutions = [];
-const [problem, goal] = ["16165855512", 82];
+const [problem, goal] = ["478088485", -24];
 
 const operators = ['','*','-','+'];
 
